@@ -85,7 +85,7 @@ watchEffect(() => {
                     top: lastScrollPosition.value+320,
                     behavior: 'smooth'
                 })
-            }, 500)
+            }, 300)
     }
 })
 </script>
