@@ -4,7 +4,9 @@
     <!-- <RandomColor/> -->
     <!-- <StarRating/> -->
     <!-- <ImageSlider url='https://picsum.photos/v2/list' page='1' limit='5'/> -->
-    <LoadMoreData/>
+    <!-- <LoadMoreData/> -->
+    <!-- <TreeView/> -->
+    <QRCodeGenerator/>
   </div>
 </template>
 
@@ -14,6 +16,8 @@ import ImageSlider from './components/image-slider/ImageSlider.vue';
 import RandomColor from './components/random-color/RandomColor.vue';
 import StarRating from './components/star-rating/StarRating.vue';
 import LoadMoreData from './components/load-more-data/LoadMoreData.vue';
+import TreeView from './components/tree-view/TreeView.vue';
+import QRCodeGenerator from './components/qr-code-generator/QRCodeGenerator.vue';
 </script>
 
 <style lang="scss" scoped>

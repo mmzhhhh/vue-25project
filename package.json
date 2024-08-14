@@ -9,8 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@chenfengyuan/vue-qrcode": "^2.0.0",
     "oh-vue-icons": "^1.0.0-rc3",
-    "vue": "^3.4.35"
+    "qrcode": "^1.5.4",
+    "vue": "^3.4.37"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.1.2",
