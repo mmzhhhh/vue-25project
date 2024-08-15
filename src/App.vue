@@ -7,7 +7,8 @@
     <!-- <LoadMoreData/> -->
     <!-- <TreeView/> -->
     <!-- <QRCodeGenerator/> -->
-     <LightDarkMode/>
+    <!-- <LightDarkMode/> -->
+    <ScrollIndicator url='https://dummyjson.com/products?limit=100'/>
   </div>
 </template>
 
@@ -20,6 +21,7 @@ import LoadMoreData from './components/load-more-data/LoadMoreData.vue';
 import TreeView from './components/tree-view/TreeView.vue';
 import QRCodeGenerator from './components/qr-code-generator/QRCodeGenerator.vue';
 import LightDarkMode from './components/light-dark-mode/LightDarkMode.vue';
+import ScrollIndicator from './components/scroll-indicator/ScrollIndicator.vue';
 </script>
 
 <style lang="scss" scoped>
