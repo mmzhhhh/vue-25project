@@ -6,7 +6,8 @@
     <!-- <ImageSlider url='https://picsum.photos/v2/list' page='1' limit='5'/> -->
     <!-- <LoadMoreData/> -->
     <!-- <TreeView/> -->
-    <QRCodeGenerator/>
+    <!-- <QRCodeGenerator/> -->
+     <LightDarkMode/>
   </div>
 </template>
 
@@ -18,6 +19,7 @@ import StarRating from './components/star-rating/StarRating.vue';
 import LoadMoreData from './components/load-more-data/LoadMoreData.vue';
 import TreeView from './components/tree-view/TreeView.vue';
 import QRCodeGenerator from './components/qr-code-generator/QRCodeGenerator.vue';
+import LightDarkMode from './components/light-dark-mode/LightDarkMode.vue';
 </script>
 
 <style lang="scss" scoped>
