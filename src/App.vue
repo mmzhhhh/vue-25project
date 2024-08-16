@@ -8,7 +8,8 @@
     <!-- <TreeView/> -->
     <!-- <QRCodeGenerator/> -->
     <!-- <LightDarkMode/> -->
-    <ScrollIndicator url='https://dummyjson.com/products?limit=100'/>
+    <!-- <ScrollIndicator url='https://dummyjson.com/products?limit=100'/> -->
+    <TabTest/>
   </div>
 </template>
 
@@ -22,6 +23,7 @@ import TreeView from './components/tree-view/TreeView.vue';
 import QRCodeGenerator from './components/qr-code-generator/QRCodeGenerator.vue';
 import LightDarkMode from './components/light-dark-mode/LightDarkMode.vue';
 import ScrollIndicator from './components/scroll-indicator/ScrollIndicator.vue';
+import TabTest from './components/custom-tabs/index.vue';
 </script>
 
 <style lang="scss" scoped>
