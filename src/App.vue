@@ -9,7 +9,8 @@
     <!-- <QRCodeGenerator/> -->
     <!-- <LightDarkMode/> -->
     <!-- <ScrollIndicator url='https://dummyjson.com/products?limit=100'/> -->
-    <TabTest/>
+    <!-- <TabTest/> -->
+     <ModalTest/>
   </div>
 </template>
 
@@ -24,6 +25,7 @@ import QRCodeGenerator from './components/qr-code-generator/QRCodeGenerator.vue'
 import LightDarkMode from './components/light-dark-mode/LightDarkMode.vue';
 import ScrollIndicator from './components/scroll-indicator/ScrollIndicator.vue';
 import TabTest from './components/custom-tabs/index.vue';
+import ModalTest from './components/custom-modal-popup/modal-test.vue';
 </script>
 
 <style lang="scss" scoped>
