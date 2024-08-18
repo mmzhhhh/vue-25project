@@ -10,7 +10,8 @@
     <!-- <LightDarkMode/> -->
     <!-- <ScrollIndicator url='https://dummyjson.com/products?limit=100'/> -->
     <!-- <TabTest/> -->
-     <ModalTest/>
+    <!-- <ModalTest/> -->
+     <GithubProfileFinder/>
   </div>
 </template>
 
@@ -26,6 +27,7 @@ import LightDarkMode from './components/light-dark-mode/LightDarkMode.vue';
 import ScrollIndicator from './components/scroll-indicator/ScrollIndicator.vue';
 import TabTest from './components/custom-tabs/index.vue';
 import ModalTest from './components/custom-modal-popup/modal-test.vue';
+import GithubProfileFinder from './components/github-profile-finder/index.vue'
 </script>
 
 <style lang="scss" scoped>
