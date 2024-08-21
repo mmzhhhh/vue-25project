@@ -13,7 +13,8 @@
     <!-- <ModalTest/> -->
     <!-- <GithubProfileFinder/> -->
     <!-- <SearchAutocomplete /> -->
-     <TicTactToe/>
+    <!-- <TicTactToe/> -->
+    <UseFetchHookTest/>
   </div>
 </template>
 
@@ -32,6 +33,7 @@ import ModalTest from "./components/custom-modal-popup/modal-test.vue";
 import GithubProfileFinder from "./components/github-profile-finder/index.vue";
 import SearchAutocomplete from "./components/search-autocomplete-with-api/index.vue";
 import TicTactToe from "./components/tic-tact-toe/index.vue";
+import UseFetchHookTest from "./components/use-fetch/UseFetchHookTest.vue";
 </script>
 
 <style lang="scss" scoped></style>
