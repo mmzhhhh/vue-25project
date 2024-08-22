@@ -16,7 +16,8 @@
     <!-- <TicTactToe/> -->
     <!-- <UseFetchHookTest/> -->
     <!-- <UseOnclickOutsideTest/> -->
-    <UseWindowResizeTest />
+    <!-- <UseWindowResizeTest /> -->
+    <ScrollToTopAndBottom />
   </div>
 </template>
 
@@ -38,6 +39,7 @@ import TicTactToe from "./components/tic-tact-toe/index.vue";
 import UseFetchHookTest from "./components/use-fetch/UseFetchHookTest.vue";
 import UseOnclickOutsideTest from "./components/use-outside-click-vue/text.vue";
 import UseWindowResizeTest from "./components/use-window-resize-vue/test.vue";
+import ScrollToTopAndBottom from "./components/scroll-to-top-and-bottom/index.vue";
 </script>
 
 <style lang="scss" scoped></style>
