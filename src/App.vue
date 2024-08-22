@@ -14,7 +14,8 @@
     <!-- <GithubProfileFinder/> -->
     <!-- <SearchAutocomplete /> -->
     <!-- <TicTactToe/> -->
-    <UseFetchHookTest/>
+    <!-- <UseFetchHookTest/> -->
+     <UseOnclickOutsideTest/>
   </div>
 </template>
 
@@ -34,6 +35,7 @@ import GithubProfileFinder from "./components/github-profile-finder/index.vue";
 import SearchAutocomplete from "./components/search-autocomplete-with-api/index.vue";
 import TicTactToe from "./components/tic-tact-toe/index.vue";
 import UseFetchHookTest from "./components/use-fetch/UseFetchHookTest.vue";
+import UseOnclickOutsideTest from "./components/use-outside-click-vue/text.vue";
 </script>
 
 <style lang="scss" scoped></style>
